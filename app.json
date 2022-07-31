@@ -19,13 +19,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.soofiane262.rnsoftuikitfree"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#CB0C9F"
-      }
+      },
+      "package": "com.soofiane262.rnsoftuikitfree"
     },
     "web": {
       "favicon": "./assets/favicon.png"
